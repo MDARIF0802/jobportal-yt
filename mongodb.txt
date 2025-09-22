@@ -1,0 +1,3 @@
+This is the url for the Job Portal Project which helps to connect MongoDB for VSCode
+
+mongodb+srv://arifmd0802_db_user:UaIr8O5VmUcdKQTg@cluster0.ldpmtaf.mongodb.net/
